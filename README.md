@@ -1,12 +1,10 @@
 # IAGeneration
 
-# Este repositorio tiene distintas técnicas de prompts usando PYTHON 🐍
-
-## Renly el Ratón recomendador de recetas 🐭
+# Este repositorio tiene distintas técnicas de prompts usando PYTHON
 
 **DESCRIPCIÓN DEL PROYECTO:**
 
-Quiero desarrollar una aplicación que proporcione a los trabajadores del rubro gastronómico herramientas para calcular costos y recetas de manera más precisa, poder almacenarlas para su posterior edición o modificación y costearlas. Usando el poder de la IA me gustaría integrar alguna herramienta que le permita al usuario generar o crear alguna receta en caso de no tener inspiración o que la IA busque en la gran base de datos que posea, la mejor receta y la muestre con una imagen generada a raíz del prompt.
+Quiero desarrollar una aplicación que proporcione a los entrenadores de fútbol una ayuda en el armado de sus equipos dando información de sus jugadores. Usando la IA me gustaría integrar alguna herramienta que le permita al usuario tener una idea de los jugadores que se encuentran en sus equipos y darle todos los datos necesarios que se necesitan como edad, valor de transfermarkt y su posición en el  campo.
 
 Este código pregunta al usuario y pone en contexto gastronómico a la IA y trae una receta de su gran base de datos. Luego pregunta al usuario si quiere la imagen de la receta creada con el modelo de OpenIA.
 
